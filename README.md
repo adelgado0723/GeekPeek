@@ -4,9 +4,9 @@
 
 - [**About**](#about)
 - [**Demo**](#demo)
-- [**Features Assigned to Developers**](#features)
-- [**Book Details User Stories**](#user_stories)
-- [**Files Implementing the Book Details Feature**](#files)
+- [**Features Assigned to Developers**](#features-assigned-to-developers)
+- [**Book Details User Stories**](#book-details-user-stories)
+- [**Files Implementing Book Details Feature**](#files-implementing-book-details-feature)
 
 
 
@@ -103,7 +103,7 @@ schedule the user stories pertaining to their feature.
 
 <hr>
 
-## Files Implementing the Book Details Feature
+## Files Implementing Book Details Feature
 
 | **File**                    | **Description**               |
 |--------------------------------|-------------------------|
