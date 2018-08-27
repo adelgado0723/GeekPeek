@@ -96,7 +96,7 @@ schedule the user stories pertaining to their feature.
 
 <hr>
 
-## Files Pertinent to the Book Details Feature
+## Files Implementing the Book Details Feature
 
 | **File**                    | **Description**               |
 |--------------------------------|-------------------------|
