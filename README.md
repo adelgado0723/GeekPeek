@@ -1,5 +1,15 @@
 # Geek Peek
 
+## Contents
+
+- [**About**](#about)
+- [**Demo**](#demo)
+- [**Features Assigned to Developers**](#features)
+- [**Book Details User Stories**](#user_stories)
+- [**Files Implementing the Book Details Feature*](#files)
+
+
+
 ## About
 
 *Geek Peek* is an online bookstore in the spirit of the website,
@@ -10,6 +20,12 @@ meetings as well as weekly planning, review, and retrospective meetings. The
 Project Requirements were specified at the onset and the developers left to
 schedule the user stories pertaining to their feature.
 
+
+<hr>
+
+## Demo
+
+![Demo](media/demo.gif?raw=true)
 
 <hr>
 
@@ -35,18 +51,9 @@ schedule the user stories pertaining to their feature.
 - CSS 
 - Bootstrap
 
-
-<hr>
-
-## Demo
-
-![Demo](media/demo.gif?raw=true)
-
 <hr>
 
 ## Book Details User Stories
-
-
 
 1. ***Feature - Display book name, genre, and publishing info (publisher, release
    date, etc.)***
