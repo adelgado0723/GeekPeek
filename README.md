@@ -6,7 +6,7 @@
 - [**Demo**](#demo)
 - [**Features Assigned to Developers**](#features)
 - [**Book Details User Stories**](#user_stories)
-- [**Files Implementing the Book Details Feature*](#files)
+- [**Files Implementing the Book Details Feature**](#files)
 
 
 
