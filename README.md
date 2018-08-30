@@ -20,6 +20,14 @@ meetings as well as weekly planning, review, and retrospective meetings. The
 Project Requirements were specified at the onset and the developers left to
 schedule the user stories pertaining to their feature.
 
+### Languages and Technologies:
+	
+- Python
+- Django
+- SQLite
+- Javascript
+- CSS 
+- Bootstrap
 
 <hr>
 
@@ -42,16 +50,6 @@ schedule the user stories pertaining to their feature.
 
 <hr>
 
-## Languages and Technologies:
-	
-- Python
-- Django
-- SQLite
-- Javascript
-- CSS 
-- Bootstrap
-
-<hr>
 
 ## Book Details User Stories
 
